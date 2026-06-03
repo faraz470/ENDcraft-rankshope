@@ -67,9 +67,10 @@ button:active{
 
 <div class="rank vip">
 <h2>VIP ??</h2>
-<p>50 ???? ?????</p>
-<button onclick="window.open('https://ble.ir/@Abc123')">
+<p>50 ???? ?????
+    <button onclick="window.open('https://rubika.ir/xjames666')">
 ???? ???
+</button>
 </div>
 
 <div class="rank vipplus">
